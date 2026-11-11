@@ -192,9 +192,9 @@ Cada módulo tem 3–4 testes de validação executados automaticamente:
 
 ---
 
-## 📚 Referências Taxonómicas
+## 📚 Referências Taxonómicas 
 
-Este projeto segue rigorosamente duas taxonomias:
+Este projeto segue rigorosamente duas taxonomias criadas por mim, ao longo das minhas certificações:
 
 ### Taxon. Modelos de previsão.md
 - **Fase 2** — Dados e diagnóstico
@@ -269,7 +269,7 @@ nu-holdings-forecast/
 
 ## ⚠️ Disclaimer
 
-Este projeto é **educacional e de investigação**. Não constitui aconselhamento financeiro. As previsões geradas são exercícios metodológicos e não devem ser usadas para decisões de investimento reais.
+Este projeto é **educacional e de investigação**. Não constitui aconselhamento financeiro. As previsões geradas são exercícios metodológicos e não devem ser usadas para decisões de investimento reais. As Taxonomias não se encontram no código, pois são documentos proprietários.
 
 ---
 
