@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+pandera>=0.18
+yfinance>=0.2.30
+requests>=2.31
+firecrawl-py>=0.2  # opcional — fallback funciona sem isto
+scikit-learn>=1.3  # para o Teste 3 (ablação)
+pyarrow>=14.0      # para parquet

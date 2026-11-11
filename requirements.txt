@@ -1,0 +1,29 @@
+# =============================================================================
+# NU HOLDINGS FORECAST — DEPENDÊNCIAS DO SISTEMA
+# =============================================================================
+# Instalar com: pip install -r requirements.txt
+# Python recomendado: 3.10+
+# =============================================================================
+
+# --- Núcleo de dados ---
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0          # suporte a Parquet
+
+# --- Validação de schema (Módulo 1) ---
+pandera>=0.18.0
+
+# --- Fontes de dados (Módulo 1) ---
+yfinance>=0.2.30         # preços e fundamentals da Nu
+requests>=2.31.0         # API BCB SGS
+firecrawl-py>=0.2.0      # scraping de releases (opcional)
+
+# --- Modelos de previsão (Módulo 2) ---
+scikit-learn>=1.3.0      # Ridge, métricas
+statsmodels>=0.14.0      # SARIMAX
+
+# --- Visualização (Módulo 4) ---
+matplotlib>=3.7.0
+
+# --- Utilitários ---
+python-dateutil>=2.8.0
