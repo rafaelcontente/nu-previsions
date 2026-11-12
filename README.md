@@ -124,7 +124,7 @@ Gera 3 gráficos + 1 parágrafo de sumário:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/<seu-user>/nu-holdings-forecast.git
+git clone https://github.com/rafaelcontente/nu-previsions.git
 cd nu-holdings-forecast
 
 # Criar ambiente virtual
